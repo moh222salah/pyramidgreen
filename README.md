@@ -1,8 +1,8 @@
-# 🌱 Pyramids Agricultural Company
+# 🌱 Kheir Baladna Agricultural Company
 
 <div align="center">
 
-![Pyramids Agricultural Company](https://img.shields.io/badge/Pyramids-Agricultural%20Company-6B9F4C?style=for-the-badge&logo=leaf&logoColor=white)
+![Kheir Baladna Agricultural Company](https://img.shields.io/badge/Pyramids-Agricultural%20Company-6B9F4C?style=for-the-badge&logo=leaf&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 
